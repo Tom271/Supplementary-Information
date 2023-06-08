@@ -2,11 +2,11 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-website_url = "https://tom271.github.io/Supplementary-Information"
+prepath = "Supplementary-Information"
+website_url = "https://tom271.github.io/"
 author = "Tom Hodgson"
 mintoclevel = 2
 website_title = "Supplementary Information"
-prepath = "Supplementary-Information"
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
 # you might not want. Indicate directories by ending the name with a `/`.
