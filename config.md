@@ -2,10 +2,10 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Tom Hodgson"
+@def author = "Tom Hodgson"
 mintoclevel = 2
-title = "Supplementary Information"
-prepath = "Supplementary-Information"
+@def title = "Supplementary Information"
+@def prepath = "Supplementary-Information"
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
 # you might not want. Indicate directories by ending the name with a `/`.
