@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html</loc>
+    <loc>https://tom271.github.io/Supplementary-Information/menu2/index.html</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
+    <loc>https://tom271.github.io/Supplementary-Information/index_old/index.html</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
+    <loc>https://tom271.github.io/Supplementary-Information/menu3/index.html</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html</loc>
+    <loc>https://tom271.github.io/Supplementary-Information/index.html</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tom271.github.io/Supplementary-Information/menu1/index.html</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
